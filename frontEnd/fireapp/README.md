@@ -1,4 +1,4 @@
-# fireappname (fireapp)
+# fireapp
 
 A Quasar Framework app
 
